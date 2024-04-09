@@ -5,7 +5,7 @@ import cookieParser from "cookie-parser";
 const app = express();
 
 const corsOptions = {
-    origin: 'https://connectify-aaryan-sd.netlify.app',
+    origin: 'https://connectify-aaryan.netlify.app',
     credentials: true,
   };
 
